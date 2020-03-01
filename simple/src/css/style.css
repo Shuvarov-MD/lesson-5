@@ -1,0 +1,52 @@
+/* Фон */
+.body-background {
+  background-image: url("../img/body-bg.jpg");
+}
+
+.chapter-1 {
+  background-color: #ae9768;
+}
+
+.chapter-2 {
+  background-color: #e1ca9b;
+}
+
+.chapter-3 {
+  background-color: #98845b;
+}
+
+.chapter-4 {
+  background-color: #e5d0a8;
+}
+
+.chapter-5 {
+  background-color: #c4aa75;
+}
+
+
+/* Рамки */
+.chapter-border {
+  border: 1px solid #000000;
+}
+
+
+/* Текст и заголовки */
+.title {
+  text-align: center;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+.text-underline {
+  text-decoration: underline;
+}
+
+.text-line-through {
+  text-decoration: line-through;
+}
